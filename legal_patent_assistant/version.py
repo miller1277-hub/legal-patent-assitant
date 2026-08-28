@@ -1,3 +1,3 @@
-APP_NAME = "Legal Patent Assistant"
-APP_VERSION = "0.1.0"
-APP_ID = "LegalPatentAssistant"
+APP_TITLE = "Legal Patent Assistant — Remainder Desk"
+APP_VERSION = "1.0.0"
+FOLDER_NAME = "LegalPatentAssistant"

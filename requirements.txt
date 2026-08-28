@@ -1,1 +1,1 @@
-PySide6>=6.7.0
+# Desktop UI uses the Windows Python Tk widget set. No extra packages required.
